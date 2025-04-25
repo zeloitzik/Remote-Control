@@ -22,3 +22,5 @@ This is a simple Python project where you can **control another computer** over 
 ├── RemoteControlServer.py   # The one you run on the other computer (the target)
 ├── README.md
 └── requirements.txt         # Stuff you need to install
+(To use it just save , and run:
+pip install -r requirements.txt)
